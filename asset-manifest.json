@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/budgety-react/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/budgety-react/static/js/main.f79b0120.chunk.js",
-    "main.js.map": "/budgety-react/static/js/main.f79b0120.chunk.js.map",
-    "runtime-main.js": "/budgety-react/static/js/runtime-main.fefebe49.js",
-    "runtime-main.js.map": "/budgety-react/static/js/runtime-main.fefebe49.js.map",
-    "static/js/2.4c851e9d.chunk.js": "/budgety-react/static/js/2.4c851e9d.chunk.js",
-    "static/js/2.4c851e9d.chunk.js.map": "/budgety-react/static/js/2.4c851e9d.chunk.js.map",
-    "index.html": "/budgety-react/index.html",
-    "precache-manifest.ba5267a05f5338fedb0659c7ed6b324b.js": "/budgety-react/precache-manifest.ba5267a05f5338fedb0659c7ed6b324b.js",
-    "service-worker.js": "/budgety-react/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/budgety-react/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.4c851e9d.chunk.js.LICENSE.txt": "/budgety-react/static/js/2.4c851e9d.chunk.js.LICENSE.txt"
+    "main.css": "/budgety-react-app/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/budgety-react-app/static/js/main.14f27bbc.chunk.js",
+    "main.js.map": "/budgety-react-app/static/js/main.14f27bbc.chunk.js.map",
+    "runtime-main.js": "/budgety-react-app/static/js/runtime-main.1123651f.js",
+    "runtime-main.js.map": "/budgety-react-app/static/js/runtime-main.1123651f.js.map",
+    "static/js/2.f681202f.chunk.js": "/budgety-react-app/static/js/2.f681202f.chunk.js",
+    "static/js/2.f681202f.chunk.js.map": "/budgety-react-app/static/js/2.f681202f.chunk.js.map",
+    "index.html": "/budgety-react-app/index.html",
+    "precache-manifest.13d6164216b9710ff7de937d5194b57e.js": "/budgety-react-app/precache-manifest.13d6164216b9710ff7de937d5194b57e.js",
+    "service-worker.js": "/budgety-react-app/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/budgety-react-app/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.f681202f.chunk.js.LICENSE.txt": "/budgety-react-app/static/js/2.f681202f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fefebe49.js",
-    "static/js/2.4c851e9d.chunk.js",
+    "static/js/runtime-main.1123651f.js",
+    "static/js/2.f681202f.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.f79b0120.chunk.js"
+    "static/js/main.14f27bbc.chunk.js"
   ]
 }
